@@ -5,6 +5,7 @@ GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby
 C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS
 Code, Compile, Run and Debug online from anywhere in world.
 
+This is a story of how a lowly blacksmith son becomes the prince of a kingdom
 *******************************************************************************/
 #include <stdio.h>
 
@@ -15,7 +16,7 @@ int main()
     printf("Once upon a time \n");
     printf("There was a princess in a castle that needed saving by a heroric prince \n \n");
     printf("Cut to 1 year later \n \n");
-    printf("You are a lowly Blacksmiths son/daughter \n");
+    printf("You are a lowly Blacksmiths son \n");
     printf("You are walking in the woods looking for a Doe to bring home to your family \n");
     printf("After traveling two leagues you finaly come across it \n");
     printf("A beutiful Doe that was so plump it would feed your family for the whole winter if you eat it right \n");
