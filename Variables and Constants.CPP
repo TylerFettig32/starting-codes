@@ -25,6 +25,7 @@ int main()
     const float g=9.8;
     const double z=3.14159;
     const float x=5.3266;
+    const double k=1.906;
     
     printf("tf=%i \n");
     printf("t=%d u=%d v=%d \n",t,u,v);
@@ -38,6 +39,7 @@ int main()
     printf("g=%f \n",g);
     printf("z=%lf \n",z);
     printf("x=%f \n",x);
+    printf("k=%lf \n",k);
 
     return 0;
 }
