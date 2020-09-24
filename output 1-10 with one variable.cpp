@@ -15,16 +15,7 @@ int main()
     
     
     printf("Hello World \n");
-    printf("t=%d \n",t);
-    printf("y=%d \n",y);
-    printf("l=%d \n",l);
-    printf("e=%d \n",e);
-    printf("r=%d \n",r);
-    printf("g=%d \n",g);
-    printf("k=%d \n",k);
-    printf("m=%d \n",m);
-    printf("a=%d \n",a);
-    printf("q=%d \n",q);
+    printf(" t=%d \n y=%d \n l=%d \n e=%d \n r=%d \n g=%d \n k=%d \n m=%d \n a=%d \n q=%d \n",t,y,l,e,r,g,k,m,a,q);
 
     return 0;
 }
