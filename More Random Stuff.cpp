@@ -56,8 +56,9 @@ int main()
     printf("Input a High Float Number \n");
     cin >> maxf;
     fseek(stdin, 0, SEEK_END);
-    float fc = ((float) rand() / (float) RAND_MAX);
-    printf("Random Float : %f \n", fc);
+    float fr = ((float) rand() / (float) RAND_MAX);
+    fr = minf + fr * (maxf - minf + 1);
+    printf("Random Float : %f \n", fr);
     
 
     return 0;
